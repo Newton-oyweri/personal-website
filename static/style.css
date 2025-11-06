@@ -1,0 +1,7 @@
+img {
+    border: 1px solid blue;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(32%) sepia(94%) saturate(5298%) hue-rotate(203deg) brightness(97%) contrast(105%);
+}
